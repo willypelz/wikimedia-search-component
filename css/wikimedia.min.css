@@ -1,0 +1,48 @@
+.search-content{
+    border: rgba(0,0,0,0.86);
+}
+
+#search-result{
+    height: 300px;
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.search-container{
+    width: 350px;
+    height: 300px;
+    border: 0.1em solid #e1e1e1;
+}
+
+.wiki-search{
+    width: 350px;
+    display: flex;
+    flex-wrap: nowrap;
+    border: 0.1em solid #e1e1e1;
+}
+.wiki-search-title{
+    font-size: 1em;
+    text-decoration: none;
+}
+
+.wiki-search-content{
+    margin-top: 1.5em;
+}
+.wiki-search-thumbnail{
+    padding: 1.5em;
+}
+
+.wiki-search-description{
+    font-size: 0.82em;
+    margin-top: 0.5em;
+}
+.wiki-search-input-box{
+    box-sizing: border-box;
+    clear: both;
+    font-size: 1rem;
+    position: relative;
+    text-align: inherit;
+    max-width: 100%;
+    width: 100%;
+    height: 2.5em;
+}
