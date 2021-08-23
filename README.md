@@ -26,6 +26,14 @@ Add script type module to allow import
 </script>
 ```
 
+Copy this tag into you application where you want to put the search component
+
+```
+   <div class="search-container">
+        <div id="search-result"></div>
+    </div>
+```
+
 ### Installation for development
 
 You can install using either [Bower](http://bower.io/) or [NPM](https://www.npmjs.com/) like so:
