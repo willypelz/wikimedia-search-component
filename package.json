@@ -1,6 +1,26 @@
 {
-  "private": true,
   "dependencies": {
     "http-server": "^13.0.1"
-  }
+  },
+  "name": "wiki-media-search-component",
+  "description": "Js Search enables efficient client-side searches of JavaScript. It is ES5 compatible and does not require jQuery or any other third-party libraries.",
+  "version": "1.0.0",
+  "main": "js/wikimedia.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willypelz/wikimedia-search-component.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "michael",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/willypelz/wikimedia-search-component/issues"
+  },
+  "homepage": "https://github.com/willypelz/wikimedia-search-component#readme"
 }
