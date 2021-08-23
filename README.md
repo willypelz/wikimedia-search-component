@@ -1,4 +1,4 @@
-# Wikimedia Js Search: client-side search library
+# Wikimedia Js Search Component: client-side search
 
 Js Search enables efficient client-side searches of JavaScript.
 It is ES5 compatible and does not require jQuery or any other third-party libraries.
