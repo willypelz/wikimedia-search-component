@@ -1,7 +1,7 @@
 [Implementation](#Implementation) |
-[Installation for development](#Installation for development) |
-[Running the application](#Running the application) |
-[Accessing the application](#Accessing the application) 
+[Installation](#Installation) |
+[Running](#Running the application) |
+[Accessing_the_application](#Accessing the application) 
 
 # Wikimedia Js Search: client-side search library
 
