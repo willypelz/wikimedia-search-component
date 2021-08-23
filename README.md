@@ -1,8 +1,3 @@
-[Implementation](#Implementation) |
-[Installation](#Installation) |
-[Running](#Running the application) |
-[Accessing_the_application](#Accessing the application) 
-
 # Wikimedia Js Search: client-side search library
 
 Js Search enables efficient client-side searches of JavaScript.
