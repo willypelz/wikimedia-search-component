@@ -48,13 +48,7 @@ bower install
 ### Running the application
 
 ```
-   http-server .
+   index.html
 ```
 
-### Accessing the application
-
-
-```
-http://127.0.0.1:8080/
-```
 
