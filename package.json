@@ -4,7 +4,7 @@
   },
   "name": "wiki-media-search-component",
   "description": "Js Search enables efficient client-side searches of JavaScript. It is ES5 compatible and does not require jQuery or any other third-party libraries.",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "main": "js/wikimedia.js",
   "devDependencies": {},
   "scripts": {
